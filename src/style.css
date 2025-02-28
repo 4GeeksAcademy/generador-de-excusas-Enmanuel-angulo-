@@ -1,5 +1,9 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+}
+#excuse {
+ display: flex;
+ justify-content: center;
+ margin-top: 100px;
 }
